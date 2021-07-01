@@ -1,1 +1,1 @@
-# patlatmakodu
+# maine atılcak çalanları tten xde

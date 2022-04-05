@@ -1,1 +1,1 @@
-# maine atılcak çalanları tten xde
+# maine atılacak 😋

